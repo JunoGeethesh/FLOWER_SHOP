@@ -1,0 +1,55 @@
+.first_img{
+    width: 500px;
+    height: 100px;
+}
+.heading{
+    color: rgb(25, 26, 24);
+    margin-top: -110px;
+    margin-left: 500px;
+    font-size: 30px;
+}
+form{
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+.titles{
+    color: white;
+    background-color: black;
+    margin-top: -1px;
+    height: 70px;
+    text-align:center;
+    width: 100%;
+}
+.img_f{
+    margin-top: 200px;
+}
+.img_b{
+    margin-left: 200px;
+    margin-top: -156px;
+}
+.img_c{
+    margin-top: -10px;
+}
+.img_d{
+    margin-left: 200px;
+    margin-top: -130px;
+}
+.four{
+    margin-left: 80px;
+    margin-top: -100px;
+
+    
+}
+.para{
+    margin-left: 600px;
+    margin-top: -200px;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    margin-left: 700px;
+}
